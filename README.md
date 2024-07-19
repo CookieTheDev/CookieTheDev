@@ -11,7 +11,7 @@ I'm a seasoned **FiveM Developer** and **System Administrator** with a deep pass
 
 ## 🌟 What I'm Up To
 - 🛠️ **Southern Hosting**: Putting the final touches on [Southern Hosting](https://southern.host), aimed at delivering unparalleled hosting experiences with a focus on performance and reliability.
-- 📚 **Continuous Learning**: Always expanding my skills in system architecture and cloud technologies to stay ahead in the fast-evolving tech landscape.
+- 📚 **Continuous Learning**: Always expanding my skills in system architecture, cloud technologies, and FiveM development to stay ahead in the fast-evolving tech landscape.
 
 ## 💼 Professional Snapshot
 - 🏢 I've contributed to multiple high-stakes projects, tailoring solutions that align technology with business goals.
