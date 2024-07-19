@@ -20,5 +20,3 @@ I'm a seasoned **FiveM Developer** and **System Administrator** with a deep pass
 ## 📫 How to Reach Me
 - **Discord**: @CookieTheDev
 - Check out my [Portfolio Website](https://southern.host) for more about what I offer and to stay updated with our launch!
-
-Let's build something amazing together!
